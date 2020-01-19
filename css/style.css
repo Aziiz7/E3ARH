@@ -1,36 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Aziiz7
-Aziiz7 /
-E3ARH
-Private
-
-1
-0
-
-    0
-
-Code
-Issues 0
-Pull requests 0
-Actions
-Projects 0
-Security
-Insights
-Settings
-E3ARH/css/style.css
-@Aziiz7 Aziiz7 first commit f7aa0d2 2 hours ago
-3165 lines (3107 sloc) 51.4 KB
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 body{
 	margin:0;
 	padding:0;
@@ -682,14 +650,19 @@ ul.nav.tabs {
 .col-m {
     padding: 1em;
     border: 1px solid #B2B2B2;
+    
 }
 .offer-img{
 	position:relative;
-	display:block;
+    display:block;
+    height: 160px;
+   
+    
 }
 .offer-img img{
 	margin:0 auto;
-	width: 55%;
+    width: 55%;
+    height: 100%;
 }
 .offer{
 	    position: absolute;
@@ -2711,6 +2684,7 @@ ul.nav.tabs {
 }
 .offer-img img {
     width: 75%;
+  
 }
 .product {
     padding: 4em 0 2em;
